@@ -10,3 +10,4 @@ T9A6lT9A6lT9A6lT9A6lT9A6lT9A6lT9A6l
 -----END RSA PRIVATE KEY-----
 db_password=SuperSecret123!
 admin_pass=P@ssw0rd!
+API : AIzaSyBEmt3A8R0u2ySxo_liYaxCSs-hDbkjjkk
